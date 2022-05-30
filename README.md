@@ -15,7 +15,7 @@
 
 ## 3. Web Frameworks
 
-1.  [Express.js](https://expressjs.com/)
+1.  [Express.js](https://expressjs.com/) :heavy_check_mark:
 2.  [Adonis.js](https://adonisjs.com/)
 3.  [Meteor.js](https://www.meteor.com/)
 4.  [Nest.js](https://nestjs.com/)
@@ -28,10 +28,10 @@
 ## 4. Databases
 
 1.  Relational
-    1. [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017)
+    1. [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017) :heavy_check_mark:
     2. [PostgreSQL](https://www.postgresql.org/)
     3. [MariaDB](https://mariadb.org/)
-    4. [MySQL](https://www.mysql.com/)
+    4. [MySQL](https://www.mysql.com/) :heavy_check_mark:
 2.  Cloud Databases
     - [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db)
     - [DynamoDB](https://aws.amazon.com/dynamodb/)
@@ -80,14 +80,14 @@
 
 ## 9. Typed Superset
 
-1.  [TypeScript](https://www.typescriptlang.org/)
+1.  [TypeScript](https://www.typescriptlang.org/) :heavy_check_mark:
 2.  [Flow](https://flow.org/)
 
 ## 10. API Clients
 
 1. REST
    - [Node-Rest-Client](https://www.npmjs.com/package/node-rest-client)
-   - [Axios](https://github.com/axios/axios)
+   - [Axios](https://github.com/axios/axios) :heavy_check_mark:
 2. [GraphQL](https://graphql.org/)
 3. [Authentication]
 
@@ -104,7 +104,7 @@
 ## 12. Testing
 
 1. Unit, Behavior, Integration Testing
-   1. [Jest](https://jestjs.io/)
+   1. [Jest](https://jestjs.io/) :heavy_check_mark:
    2. [Jasmine](https://jasmine.github.io/)
    3. [Chai](https://www.chaijs.com/)
    4. [Mocha](https://mochajs.org/)
