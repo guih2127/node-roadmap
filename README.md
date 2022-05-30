@@ -1,17 +1,17 @@
 ## 1. Prerequisites
 
 - [JavaScript](https://www.w3schools.com/js/) :heavy_check_mark:
-- [NPM](https://docs.npmjs.com/)
+- [NPM](https://docs.npmjs.com/) :heavy_check_mark:
 - [Node.js](https://nodejs.org/en/docs/)
-- [ECMAScript](https://www.w3schools.com/js/js_versions.asp)
+- [ECMAScript](https://www.w3schools.com/js/js_versions.asp) :heavy_check_mark:
 
 ## 2. General Development Skills
 
-- Learn GIT, create a few repositories on GitHub, share your code with other people
-- Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
-- Don't be afraid of using Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com/)
-- Read a few books about algorithms and data structures
-- Clean code (https://www.w3schools.com/js/js_conventions.asp)
+- Learn GIT, create a few repositories on GitHub, share your code with other people :heavy_check_mark:
+- Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS) :heavy_check_mark:
+- Don't be afraid of using Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com/) :heavy_check_mark:
+- Read a few books about algorithms and data structures :heavy_check_mark:
+- Clean code (https://www.w3schools.com/js/js_conventions.asp) :heavy_check_mark:
 
 ## 3. Web Frameworks
 
