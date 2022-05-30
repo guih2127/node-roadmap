@@ -85,51 +85,51 @@
 
 ## 10. API Clients
 
-    1. REST
-       - [Node-Rest-Client](https://www.npmjs.com/package/node-rest-client)
-       - [Axios](https://github.com/axios/axios)
-    2. [GraphQL](https://graphql.org/)
-    3. [Authentication]
+1. REST
+   - [Node-Rest-Client](https://www.npmjs.com/package/node-rest-client)
+   - [Axios](https://github.com/axios/axios)
+2. [GraphQL](https://graphql.org/)
+3. [Authentication]
 
 ## 11. Good to Know
 
-    - [Async.js](https://caolan.github.io/async/)
-    - [PM2](http://pm2.keymetrics.io/)
-    - [Commander.js](https://github.com/tj/commander.js/)
-    - [Passport](http://www.passportjs.org/)
-    - [Nodemailer](https://nodemailer.com/about/)
-    - [Marked](https://marked.js.org/#/README.md#README.md)
-    - [ESLint](https://eslint.org/)
+- [Async.js](https://caolan.github.io/async/)
+- [PM2](http://pm2.keymetrics.io/)
+- [Commander.js](https://github.com/tj/commander.js/)
+- [Passport](http://www.passportjs.org/)
+- [Nodemailer](https://nodemailer.com/about/)
+- [Marked](https://marked.js.org/#/README.md#README.md)
+- [ESLint](https://eslint.org/)
 
 ## 12. Testing
 
-    1. Unit, Behavior, Integration Testing
-       1. [Jest](https://jestjs.io/)
-       2. [Jasmine](https://jasmine.github.io/)
-       3. [Chai](https://www.chaijs.com/)
-       4. [Mocha](https://mochajs.org/)
-       5. [Enzyme](https://github.com/airbnb/enzyme)
-       6. [Sinon](https://sinonjs.org/)
-    2. E2E Testing
-       - [Selenium](https://help.crossbrowsertesting.com/selenium-testing/getting-started/javascript/)
-       - [Puppeteer](https://github.com/GoogleChrome/puppeteer)
+1. Unit, Behavior, Integration Testing
+   1. [Jest](https://jestjs.io/)
+   2. [Jasmine](https://jasmine.github.io/)
+   3. [Chai](https://www.chaijs.com/)
+   4. [Mocha](https://mochajs.org/)
+   5. [Enzyme](https://github.com/airbnb/enzyme)
+   6. [Sinon](https://sinonjs.org/)
+2. E2E Testing
+   - [Selenium](https://help.crossbrowsertesting.com/selenium-testing/getting-started/javascript/)
+   - [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 
 ## 13. Task Scheduling
 
-    - [Agenda](https://github.com/agenda/agenda)
-    - [Cronicle](https://github.com/jhuckaby/Cronicle)
-    - [Node-Schedule](https://www.npmjs.com/package/node-schedule)
+- [Agenda](https://github.com/agenda/agenda)
+- [Cronicle](https://github.com/jhuckaby/Cronicle)
+- [Node-Schedule](https://www.npmjs.com/package/node-schedule)
 
 ## 14. MicroServices
 
-    1. Message-Broker
-       - [RabbitMQ](https://www.rabbitmq.com/tutorials/tutorial-one-javascript.html)
-       - [Apache Kafka](https://www.npmjs.com/package/kafka-node)
-       - [ActiveMQ](https://github.com/apache/activemq)
-       - [Azure Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview)
-    2. Message-Bus
-       - [Distribus](https://distribus.com/)
-       - [BusMQ](https://github.com/capriza/node-busmq)
+1. Message-Broker
+   - [RabbitMQ](https://www.rabbitmq.com/tutorials/tutorial-one-javascript.html)
+   - [Apache Kafka](https://www.npmjs.com/package/kafka-node)
+   - [ActiveMQ](https://github.com/apache/activemq)
+   - [Azure Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview)
+2. Message-Bus
+   - [Distribus](https://distribus.com/)
+   - [BusMQ](https://github.com/capriza/node-busmq)
 
 ## 15. [Design-Patterns](https://www.pluralsight.com/courses/javascript-practical-design-patterns)
 
