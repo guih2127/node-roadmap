@@ -88,7 +88,7 @@
 1. REST
    - [Node-Rest-Client](https://www.npmjs.com/package/node-rest-client)
    - [Axios](https://github.com/axios/axios) :heavy_check_mark:
-2. [GraphQL](https://graphql.org/)
+2. [GraphQL](https://graphql.org/) :heavy_check_mark:
 3. [Authentication]
 
 ## 11. Good to Know
