@@ -111,7 +111,7 @@
    5. [Enzyme](https://github.com/airbnb/enzyme)
    6. [Sinon](https://sinonjs.org/)
 2. E2E Testing
-   - [Selenium](https://help.crossbrowsertesting.com/selenium-testing/getting-started/javascript/)
+   - [Selenium](https://help.crossbrowsertesting.com/selenium-testing/getting-started/javascript/) :heavy_check_mark:
    - [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 
 ## 13. Task Scheduling
