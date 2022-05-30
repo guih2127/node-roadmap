@@ -1,6 +1,6 @@
 ## 1. Prerequisites
 
-- [JavaScript](https://www.w3schools.com/js/)
+- [JavaScript](https://www.w3schools.com/js/) :heavy_check_mark:
 - [NPM](https://docs.npmjs.com/)
 - [Node.js](https://nodejs.org/en/docs/)
 - [ECMAScript](https://www.w3schools.com/js/js_versions.asp)
