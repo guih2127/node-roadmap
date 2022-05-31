@@ -140,3 +140,10 @@
 ## 15. [Design-Patterns](https://www.pluralsight.com/courses/javascript-practical-design-patterns)
 
 ## 16. [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms/)
+
+## 17. [AWS](https://aws.amazon.com/)
+
+[S3]() :heavy_check_mark:
+[LambdaFunctions]() :heavy_check_mark:
+[CloudFrount]()
+[IAM]() :heavy_check_mark:
