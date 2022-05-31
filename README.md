@@ -2,7 +2,7 @@
 
 - [JavaScript](https://www.w3schools.com/js/) :heavy_check_mark:
 - [NPM](https://docs.npmjs.com/) :heavy_check_mark:
-- [Node.js](https://nodejs.org/en/docs/)
+- [Node.js](https://nodejs.org/en/docs/) :heavy_check_mark:
 - [ECMAScript](https://www.w3schools.com/js/js_versions.asp) :heavy_check_mark:
 
 ## 2. General Development Skills
@@ -16,7 +16,7 @@
 ## 3. Web Frameworks
 
 1.  [Express.js](https://expressjs.com/) :heavy_check_mark:
-2.  [Nest.js](https://nestjs.com/)
+2.  [Nest.js](https://nestjs.com/) :heavy_check_mark:
 
 ## 3.1. ORMs
 
