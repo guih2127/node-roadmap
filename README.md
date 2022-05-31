@@ -143,7 +143,7 @@
 
 ## 17. [AWS](https://aws.amazon.com/)
 
-[S3]() :heavy_check_mark:
-[LambdaFunctions]() :heavy_check_mark:
-[CloudFrount]()
-[IAM]() :heavy_check_mark:
+1. [S3]() :heavy_check_mark:
+2. [LambdaFunctions]() :heavy_check_mark:
+3. [CloudFrount]()
+4. [IAM]() :heavy_check_mark:
