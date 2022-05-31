@@ -16,14 +16,7 @@
 ## 3. Web Frameworks
 
 1.  [Express.js](https://expressjs.com/) :heavy_check_mark:
-2.  [Adonis.js](https://adonisjs.com/)
-3.  [Meteor.js](https://www.meteor.com/)
-4.  [Nest.js](https://nestjs.com/)
-5.  [Sails.js](https://sailsjs.com/)
-6.  [Koa.js](https://koajs.com/)
-7.  [Loopback.io](https://loopback.io/)
-8.  [egg.js](https://eggjs.org/en/index.html)
-9.  [midway](https://midwayjs.org/midway/en/)
+2.  [Nest.js](https://nestjs.com/)
 
 ## 3.1. ORMs
 
@@ -49,9 +42,6 @@
     - [MongoDB](https://www.mongodb.com/)
     - [Redis](https://redis.io/)
     - [Apache Cassandra](http://cassandra.apache.org/)
-    - [LiteDB](https://github.com/mbdavid/LiteDB)
-    - [RavenDB](https://github.com/ravendb/ravendb)
-    - [CouchDB](http://couchdb.apache.org/)
 
 ## 5. Caching
 
