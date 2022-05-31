@@ -25,6 +25,12 @@
 8.  [egg.js](https://eggjs.org/en/index.html)
 9.  [midway](https://midwayjs.org/midway/en/)
 
+## 3.1. ORMs
+
+1. [TypeORM](https://typeorm.io/)
+2. [Prisma](https://www.prisma.io/)
+3. [Sequelize](https://sequelize.org/)
+
 ## 4. Databases
 
 1.  Relational
@@ -34,7 +40,7 @@
     4. [MySQL](https://www.mysql.com/) :heavy_check_mark:
 2.  Cloud Databases
     - [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db)
-    - [DynamoDB](https://aws.amazon.com/dynamodb/)
+    - [DynamoDB](https://aws.amazon.com/dynamodb/) :heavy_check_mark:
 3.  Search Engines
     - [ElasticSearch](https://www.elastic.co/)
     - [Solr](http://lucene.apache.org/solr/)
