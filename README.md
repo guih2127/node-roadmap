@@ -36,8 +36,6 @@
     - [DynamoDB](https://aws.amazon.com/dynamodb/) :heavy_check_mark:
 3.  Search Engines
     - [ElasticSearch](https://www.elastic.co/)
-    - [Solr](http://lucene.apache.org/solr/)
-    - [Sphinx](http://sphinxsearch.com/)
 4.  NoSQL
     - [MongoDB](https://www.mongodb.com/)
     - [Redis](https://redis.io/)
@@ -45,11 +43,7 @@
 
 ## 5. Caching
 
-1.  [Node-Cache](https://www.npmjs.com/package/node-cache)
-2.  Distributed Cache
-    1. [Redis](https://redis.io/)
-    2. [Memcached](https://memcached.org/)
-3.  [Memory Cache](https://www.npmjs.com/package/memory-cache)
+1. [Redis](https://redis.io/)
 
 ## 6. Logging
 
