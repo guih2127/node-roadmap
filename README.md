@@ -20,9 +20,9 @@
 
 ## 3.1. ORMs
 
+2. [Prisma](https://www.prisma.io/) :heavy_check_mark:
 1. [TypeORM](https://typeorm.io/)
-2. [Prisma](https://www.prisma.io/)
-3. [Sequelize](https://sequelize.org/)
+1. [Sequelize](https://sequelize.org/)
 
 ## 4. Databases
 
@@ -37,7 +37,7 @@
 3.  Search Engines
     - [ElasticSearch](https://www.elastic.co/)
 4.  NoSQL
-    - [MongoDB](https://www.mongodb.com/)
+    - [MongoDB](https://www.mongodb.com/) :heavy_check_mark:
     - [Redis](https://redis.io/)
     - [Apache Cassandra](http://cassandra.apache.org/)
 
