@@ -66,7 +66,7 @@
 
 ## 8. Real-Time Communication
 
-1.  [Socket.IO](https://socket.io/)
+1.  [Socket.IO](https://socket.io/) :heavy_check_mark:
 
 ## 9. Typed Superset
 
