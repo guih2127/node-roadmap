@@ -21,14 +21,14 @@
 ## 3.1. ORMs
 
 2. [Prisma](https://www.prisma.io/) :heavy_check_mark:
-1. [TypeORM](https://typeorm.io/)
+1. [TypeORM](https://typeorm.io/) :heavy_check_mark:
 1. [Sequelize](https://sequelize.org/)
 
 ## 4. Databases
 
 1.  Relational
     1. [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017) :heavy_check_mark:
-    2. [PostgreSQL](https://www.postgresql.org/)
+    2. [PostgreSQL](https://www.postgresql.org/) :heavy_check_mark:
     3. [MariaDB](https://mariadb.org/)
     4. [MySQL](https://www.mysql.com/) :heavy_check_mark:
 2.  Cloud Databases
